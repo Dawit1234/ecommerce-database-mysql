@@ -1,14 +1,31 @@
-#  E-Commerce Database (MySQL)
+# E-Commerce Database (MySQL)
 
 ## Overview
 
 This project demonstrates the design and implementation of a relational database using MySQL. The database models a simple e-commerce system with customers, products, categories, orders, and order details.
+
+This project showcases fundamental database design concepts, SQL programming, and relational data modeling.
+
+---
 
 ## Technologies
 
 - MySQL 8
 - MySQL Workbench
 - SQL
+
+---
+
+## Project Features
+
+- Designed a relational database for an e-commerce system.
+- Created tables using SQL Data Definition Language (DDL).
+- Established relationships using primary and foreign keys.
+- Imported customer and business data into the database.
+- Executed SQL queries to retrieve and analyze data.
+- Managed the project using GitHub.
+
+---
 
 ## Database Tables
 
@@ -18,48 +35,63 @@ This project demonstrates the design and implementation of a relational database
 - Orders
 - OrderDetails
 
+---
+
 ## Skills Demonstrated
 
-- Database Design
+- Relational Database Design
 - SQL (DDL & DML)
 - Primary Keys
 - Foreign Keys
-- Relational Database Modeling
+- Data Modeling
 - Data Import
+- Data Retrieval
+- SQL Aggregation
 - MySQL Workbench
+- Git & GitHub
 
-## Database Schema
-
-- Customers
-- Categories
-- Products
-- Orders
-- OrderDetails
+---
 
 ## How to Run
 
 1. Open MySQL Workbench.
 2. Open `ECommerce_DB_MySQL.sql`.
-3. Execute the script.
-4. The database and tables will be created automatically.
+3. Execute the SQL script.
+4. The database and all required tables will be created automatically.
 
-## Future Improvements
+---
 
-- Add sample business queries
-- Create an ER diagram
-- Build a Power BI dashboard
-- Build an ETL pipeline using Python
-- 
 ## Screenshots
 
 ### Database Tables
 
-![Database Tables](screenshots:show_tables.png)
+![Database Tables](show_tables.png)
 
 ### Customers Table
 
-![Customers Table](screenshots:customers_table.png)
+![Customers Table](customers_table.png)
 
 ### Customer Distribution by State
 
-![Customer Distribution](screenshots:customers_by_state.png)
+![Customer Distribution by State](customers_by_state.png)
+
+---
+
+## Future Improvements
+
+- Add advanced SQL queries
+- Create an Entity Relationship (ER) Diagram
+- Develop business reports and dashboards using Power BI
+- Build an ETL pipeline using Python and Pandas
+- Optimize database performance with indexes and views
+
+---
+
+## Author
+
+**Dawit Kahsay**
+
+- M.S. Data Science & Engineering Student
+- B.S. Computer Science
+- U.S. Army Veteran
+- Active Secret Clearance
