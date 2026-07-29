@@ -1,0 +1,31 @@
+# Screenshots
+This folder contains screenshots demonstrating the successful implementation of the E-Commerce 
+MySQL database project.
+
+# Included Screenshots
+1. Database Schema
+File: `show_tables.png`
+
+Displays all tables created in the `ECommerce_DB` database, including:
+- Customers
+- Categories
+- Products
+- Orders
+- OrderDetails
+
+---
+
+2. Customers Table
+File:`customers_table.png`
+
+Shows the customer records successfully imported into the `Customers` table using MySQL.
+
+---
+
+3. SQL Query Results
+File:`customers_by_state.png`
+
+Demonstrates the use of SQL aggregation (`GROUP BY`) to summarize customer data by state.
+---
+These screenshots verify that the database was created successfully, the data was 
+imported correctly, and SQL queries executed as expected.
