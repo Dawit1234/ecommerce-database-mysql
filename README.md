@@ -49,3 +49,17 @@ This project demonstrates the design and implementation of a relational database
 - Create an ER diagram
 - Build a Power BI dashboard
 - Build an ETL pipeline using Python
+- 
+## Screenshots
+
+### Database Tables
+
+![Database Tables](screenshots:show_tables.png)
+
+### Customers Table
+
+![Customers Table](screenshots:customers_table.png)
+
+### Customer Distribution by State
+
+![Customer Distribution](screenshots:customers_by_state.png)
