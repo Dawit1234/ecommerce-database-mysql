@@ -1,4 +1,4 @@
-E-Commerce Database (MySQL) 
+##E-Commerce Database (MySQL) 
 Overview
 This project demonstrates the design and implementation of a relational database using MySQL. The database models a simple e-commerce system with customers, products, categories, orders, and order details.
 
